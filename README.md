@@ -29,11 +29,15 @@ Setup Unity for mobile development with XCode iOS simulator tests
           
           ![LWRPSet](https://user-images.githubusercontent.com/3121488/69914473-b9182680-1423-11ea-8909-9587be8c5b75.png)
           
-          1. after lwrpset everything get pink (LWRP Process):
+          1. after LWRP Set everything get pink (LWRP Process):
               
               1. MenuBar > Edit > Render Pipeline > Upgrade Project Materials to Render Pipeline
               
               ![LWRP Process](https://user-images.githubusercontent.com/3121488/69914575-a18d6d80-1424-11ea-841c-89e3ea135e8a.png)
+              
+              1. IF Still anything pink (update it specific shader):
+              
+              ![LWRP Specific Pink Process](https://user-images.githubusercontent.com/3121488/69915424-70fe0180-142d-11ea-9258-440606d8fc09.png)
 
 
 
