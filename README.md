@@ -26,17 +26,13 @@ Setup Unity for mobile development with XCode iOS simulator tests
 At "Player Settings":
 1. Select the platorm (phone icon is iOS)
   1. "Resolution and Presentation":
-      1. Default Orientation = > (landscape) ^ (portrait)
+      1. Default Orientation = '>' (landscape) '^' (portrait)
   1. Allowed Orientations for Auto Rotation
 
 ![Define Orientation](https://user-images.githubusercontent.com/3121488/69913873-3f306f00-141c-11ea-81aa-449124183ad0.png)
 
-# iOS processing
-1. Color Space
-1. Auto Graphic API
-1. Bundle Identifier
-1. Target SDK
-1. XCode
-  1. 
-
-
+# iOS Processing
+1. Color Space = "Gamma"
+1. Auto Graphic API = "Metal + OpenGLES3"
+1. Bundle Identifier = "com.Company.Proj"
+1. Target SDK = "Simulator SDK" (development) and "Device SDK" (production)
