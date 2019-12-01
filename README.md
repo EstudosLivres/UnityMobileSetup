@@ -10,6 +10,29 @@ Setup Unity for mobile development with XCode iOS simulator tests
 
 # LWRP
 
+1. Menu bar at Unity:
+    1. Window > Package Manager
+      1. All Packages (filter)
+          1. Lightweight RP > Install
+          
+          ![LWRPInstall](https://user-images.githubusercontent.com/3121488/69914293-502faf00-1421-11ea-9968-a23e124b88df.png)
+          
+          1. LWRP Create
+          
+          ![LWRPCreate](https://user-images.githubusercontent.com/3121488/69914417-ed3f1780-1422-11ea-812d-76eccdd6da7f.png)
+          
+          1. LWRP Config
+          
+          ![LWRPConfig](https://user-images.githubusercontent.com/3121488/69914438-24adc400-1423-11ea-89be-6e13ee3c7c54.png)
+
+          1. MenuBar > Edit > Project Settings > Graphics > Drag&Drop created LWRP (LWRP Set)
+          
+          ![LWRPSet](https://user-images.githubusercontent.com/3121488/69914473-b9182680-1423-11ea-8909-9587be8c5b75.png)
+          
+          1. after lwrpset everything get pink:
+            1. 
+
+
 
 # Switch Platform (prefer iOS on MAC)
 
