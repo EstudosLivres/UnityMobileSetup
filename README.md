@@ -26,11 +26,10 @@ Setup Unity for mobile development with XCode iOS simulator tests
 At "Player Settings":
 1. Select the platorm (phone icon is iOS)
   1. "Resolution and Presentation":
-    1. Default Orientation = > (landscape) ^ (portrait)
+      1. Default Orientation = > (landscape) ^ (portrait)
   1. Allowed Orientations for Auto Rotation
 
-
-
+![Define Orientation](https://user-images.githubusercontent.com/3121488/69913873-3f306f00-141c-11ea-81aa-449124183ad0.png)
 
 # iOS processing
 1. Color Space
