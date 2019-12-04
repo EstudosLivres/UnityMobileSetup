@@ -92,3 +92,8 @@ At "Player Settings":
 1. Disable and re-enable mobile inputs (unity menu bar)
 <img width="1440" alt="disable-enable-mobile-input" src="https://user-images.githubusercontent.com/3121488/70119346-d5e17380-1648-11ea-8dab-f4538121e6ee.png">
 
+Obs.: a sample right button (jump is already there, just change it skin, to do it convert the image from default to Sprite2D UI)
+![custom ui directional](https://user-images.githubusercontent.com/3121488/70120549-a2541880-164b-11ea-9332-58657c6f0339.png)
+
+# Mobile Camera Moves
+
