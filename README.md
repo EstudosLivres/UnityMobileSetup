@@ -7,7 +7,8 @@ Setup Unity for mobile development with XCode iOS simulator tests
 1. [ ] [LWRP (2019 or lower versions) or Universal Pipeline (2020 unity version)](#lwrp)
 1. [ ] [Switch Platform (iOS on MAC)](#summarychecklist)
 1. [ ] [Define orientation only (portrait or landscape)](#define-orientation)
-1. [ ] [iOS Processing](#ios-processing)
+1. [ ] [iOS Processing - Project Settings](#ios-processing---proj-settings)
+1. [ ] [Mobile Moves Input](#moves-input)
 
 
 # Lightning
@@ -77,3 +78,9 @@ At "Player Settings":
 1. Bundle Identifier = "com.Company.Proj"
 1. Target SDK = "Simulator SDK" (development) and "Device SDK" (production)
 ![iOS Project Settings](https://user-images.githubusercontent.com/3121488/70115529-c2c9a600-163e-11ea-83c2-0a58fc085bda.png)
+
+# Moves Input
+
+1. Download & Import Standard Assets Store
+![StandardAssets](https://user-images.githubusercontent.com/3121488/70116595-f0641e80-1641-11ea-9029-a7140b24577a.png)
+1. 
