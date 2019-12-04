@@ -83,4 +83,12 @@ At "Player Settings":
 
 1. Download & Import Standard Assets Store
 ![StandardAssets](https://user-images.githubusercontent.com/3121488/70116595-f0641e80-1641-11ea-9029-a7140b24577a.png)
-1. 
+1. Add Adam to the scene (third controller character)
+![Adam to scene](https://user-images.githubusercontent.com/3121488/70118636-3f608280-1647-11ea-8567-3989f12f5f7e.png)
+
+1. Find it in the project folder nav & add it to the hierarchy
+<img width="1440" alt="mob-input-proj-nav" src="https://user-images.githubusercontent.com/3121488/70119333-ceba6580-1648-11ea-9d15-48054786bdd8.png">
+
+1. Disable and re-enable mobile inputs (unity menu bar)
+<img width="1440" alt="disable-enable-mobile-input" src="https://user-images.githubusercontent.com/3121488/70119346-d5e17380-1648-11ea-8dab-f4538121e6ee.png">
+
