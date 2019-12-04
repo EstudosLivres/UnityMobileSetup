@@ -3,10 +3,20 @@ Setup Unity for mobile development with XCode iOS simulator tests
 
 ## Summary/CheckList
 
-- [ ] [LWRP (2019 or lower versions) or Universal Pipeline (2020 unity version)](#lwrp)
-- [ ] [Switch Platform (iOS on MAC)](#summarychecklist)
-- [ ] [Define orientation only (portrait or landscape)](#define-orientation)
-- [ ] [iOS Processing](#ios-processing)
+1. [ ] [Lightning Setup](#lightning)
+1. [ ] [LWRP (2019 or lower versions) or Universal Pipeline (2020 unity version)](#lwrp)
+1. [ ] [Switch Platform (iOS on MAC)](#summarychecklist)
+1. [ ] [Define orientation only (portrait or landscape)](#define-orientation)
+1. [ ] [iOS Processing](#ios-processing)
+
+
+# Lightning
+
+1. Find the lightning settings
+![lightning settings location](https://user-images.githubusercontent.com/3121488/69915818-0bf8da80-1432-11ea-9308-eafe9a42706d.png)
+1. Remove real-time light and perform the baked light map
+![light baked](https://user-images.githubusercontent.com/3121488/69917234-76b21200-1442-11ea-9193-57a63d6f2f32.png)
+
 
 # LWRP
 
@@ -61,8 +71,9 @@ At "Player Settings":
 
 ![Define Orientation](https://user-images.githubusercontent.com/3121488/69913873-3f306f00-141c-11ea-81aa-449124183ad0.png)
 
-# iOS Processing
+# iOS Processing - Proj. Settings
 1. Color Space = "Gamma"
 1. Auto Graphic API = "Metal + OpenGLES3"
 1. Bundle Identifier = "com.Company.Proj"
 1. Target SDK = "Simulator SDK" (development) and "Device SDK" (production)
+![iOS Project Settings](https://user-images.githubusercontent.com/3121488/70115529-c2c9a600-163e-11ea-83c2-0a58fc085bda.png)
