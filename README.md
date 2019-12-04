@@ -3,10 +3,20 @@ Setup Unity for mobile development with XCode iOS simulator tests
 
 ## Summary/CheckList
 
-- [ ] [LWRP (2019 or lower versions) or Universal Pipeline (2020 unity version)](#lwrp)
-- [ ] [Switch Platform (iOS on MAC)](#summarychecklist)
-- [ ] [Define orientation only (portrait or landscape)](#define-orientation)
-- [ ] [iOS Processing](#ios-processing)
+1. [ ] [Lightning Setup](#lightning)
+1. [ ] [LWRP (2019 or lower versions) or Universal Pipeline (2020 unity version)](#lwrp)
+1. [ ] [Switch Platform (iOS on MAC)](#summarychecklist)
+1. [ ] [Define orientation only (portrait or landscape)](#define-orientation)
+1. [ ] [iOS Processing](#ios-processing)
+
+
+# Lightning
+
+1. Find the lightning settings
+![lightning settings location](https://user-images.githubusercontent.com/3121488/69915818-0bf8da80-1432-11ea-9308-eafe9a42706d.png)
+1. Remove real-time light and perform the baked light map
+![light baked](https://user-images.githubusercontent.com/3121488/69917234-76b21200-1442-11ea-9193-57a63d6f2f32.png)
+
 
 # LWRP
 
