@@ -71,8 +71,9 @@ At "Player Settings":
 
 ![Define Orientation](https://user-images.githubusercontent.com/3121488/69913873-3f306f00-141c-11ea-81aa-449124183ad0.png)
 
-# iOS Processing
+# iOS Processing - Proj. Settings
 1. Color Space = "Gamma"
 1. Auto Graphic API = "Metal + OpenGLES3"
 1. Bundle Identifier = "com.Company.Proj"
 1. Target SDK = "Simulator SDK" (development) and "Device SDK" (production)
+![iOS Project Settings](https://user-images.githubusercontent.com/3121488/70115529-c2c9a600-163e-11ea-83c2-0a58fc085bda.png)
